@@ -17,7 +17,6 @@ This script first designs the tables to hold data in the CSVs, then imports the 
 Inspects the CSVs and sketch out an ERD of the tables.
 
 The ERD:
-![ERD](EmployeeSQL/ERD/employee-sql_ERD.png)
 
 #### Data Engineering
 
